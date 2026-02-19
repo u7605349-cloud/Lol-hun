@@ -39,4 +39,7 @@ local Window = Rayfield:CreateWindow({
 
 local Tab = Window:CreateTab("home/rule", nil)
 
+local Label = Tab:CreateLabel("As a reminder this is a script so there is a chance you get ban use this at your own risk", nil, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
+local Label = Tab:CreateLabel("we hope you enjoy", nil, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
+
 
